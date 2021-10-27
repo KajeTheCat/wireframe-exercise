@@ -84,6 +84,9 @@
 
   body > main > article > a {
     border: 15px solid black;
+    background-color: black;
+    color: white;
+    text-decoration: none;
     font-size: 30px;
     margin-top: 5px;
     transition: letter-spacing 0.3s;
